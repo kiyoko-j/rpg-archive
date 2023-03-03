@@ -18,4 +18,5 @@ export default defineConfig({
       text: 'Edit this page on Github',
     },
   },
+  lastUpdated: true,
 });
