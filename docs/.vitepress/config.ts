@@ -13,5 +13,9 @@ export default defineConfig({
       collapsible: true,
       collapsed: false,
     }),
+    editLink: {
+      pattern: 'https://github.com/jobackman/rpg-archive/edit/main/docs/:path',
+      text: 'Edit this page on Github',
+    },
   },
 });
