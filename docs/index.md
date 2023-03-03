@@ -1,3 +1,1 @@
-# Hello VitePress
-
-Lorem ipsum
+# RPG Archive
