@@ -6,17 +6,26 @@ Börjar med en djungel, hör djur, skratt. Kameran zoomar över ett bord med sto
 
 Aeryn och Rouya rörsig uppåt tjänstespiran, springer på 2 Ogris och en kock som Rouya känner igen som att han är ifrån Bulan (?) (“Indien”). Finurligt folk som är vänligt men opportunistiska. Kocken kockblockar de och undrar vilka de är…
 
-Jerry befinner sig i… Tron, Skäggig man, staty som smilar mot jerry, svävande växter, fiskar? jerry trött i benen? Jerry gapar bombastiskt “Aldrig har en lord av Serafin blivit så dåligt behandlad på ett besök! Var är lord Aemon? Jag är törstig!”
+Jerry befinner sig i… Tron, Skäggig man, staty som smilar mot jerry, svävande växter, fiskar? jerry trött i benen? Jerry gapar bombastiskt
+
+> “Aldrig har en lord av Serafin blivit så dåligt behandlad på ett besök! Var är lord Aemon? Jag är törstig!”
+
 Han får ett glas av en tjänare. Jerry samtalar med gamle skäggiga mannen. Han är en historiker “Remus” “Den vise”. Verkar vara någon slags down-trodden “advisor”.
 
 Aeryn och Rouya försöker övertala Kocken att det är chett som lyckats få de den här tjänartjänsten, bribar med mynt, han går med på det och utbrister publikt att alla nya betalar tribute. De betalar han igen. Han går med på det och skickar upp de vidare för att få tjänarkläder.
 
 Klipp till djungeln: Det är ett möte med Illargo från Galas vid bordet! Allia överhör det här som tjänare såklart. Mötet handlar om kristallerna som minas från berget intill staden. Det är snack om att deala kristaller till Galas.. Detta är extremt olagligt! Alla kristaller ska tillfalla kungahuset enligt en gammal lag. En av legenderna som Rouya läste om i böckerna från Ustal Goros templet handlar om hur pendulum lärde upp Amagahd staden att nyttja kristallernas kraft för att bygga maskiner och liknande. Allämnt känt är det att för ~1 år sedan blev det påbud av kungahuset att börja mina kristallerna igen och skicka till kungahuset.
 
-Åter till Jerry: “Schmucker verkar inkompetent, varför han inte tar emot en gäst” säger han till gubben.
-“Han måste väl ha en annan gäst”
+Åter till Jerry:
+
+> “Schmucker verkar inkompetent, varför han inte tar emot en gäst” säger han till gubben.
+
+> “Han måste väl ha en annan gäst”
+
 Jerry insisterar att träffa hertige Aemon istället för Schmucker. Får svaret:
-“Hertigen träffar bara de han vill nu för tiden, och det är inte många. Han befinner sig högt upp i tornet, även schmucker vill träffa lord Aemon men har inte förmågan”
+
+> “Hertigen träffar bara de han vill nu för tiden, och det är inte många. Han befinner sig högt upp i tornet, även schmucker vill träffa lord Aemon men har inte förmågan”
+
 Jerry får intrycket av gubben som att vara en “Grand maester pycelle”.
 
 Aeryn, Rouya och Jerry möts upp på nsäta våning från olika håll kommer ut i ett stort “bibliotek”. Det är bokhyllor, glasburkar med nånting i, böcker som verkar ha burits bort.
@@ -31,8 +40,14 @@ Vi rör oss vidare, där hör man Schmucker som sitter och gapar om hur han scha
 
 I en glänta sitter de. I gläntan sticker det upp som toppen av en massa små spiror ur marken.
 
-Jerry burstar fram ur busken och utbrister “Jahaa, två förrädare smider planer!”
+Jerry burstar fram ur busken och utbrister
+
+> “Jahaa, två förrädare smider planer!”
 
 Allia tar det som ett tillfälle och försöker assasinatea Schmucker men han undviker det och börjar springa iväg. Aeryn springer efter honom, Rouya flesh-bendar extrem muskelkramp på Schmucker som faller över, Aeryn knockar honom! (Aeryn lämnade ner glasburk blobban där han sprang ifrån).
 
-Illargo är trött på Jerry och hur han ställer till det för Galas planer hela tiden.. “Jag har varit givmild men det finns gränser”. Han utmanar Jerry på en ritualistisk galas 1:1 duell… (kanske retcon till att han inte duellar honom?)
+Illargo är trött på Jerry och hur han ställer till det för Galas planer hela tiden..
+
+> “Jag har varit givmild men det finns gränser”.
+
+Han utmanar Jerry på en ritualistisk galas 1:1 duell… (kanske retcon till att han inte duellar honom?)

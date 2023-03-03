@@ -5,6 +5,8 @@ export default defineConfig({
   title: 'RPG Archive',
   description: 'For the cultured man',
   themeConfig: {
+    aside: true,
+    outline: 'deep',
     sidebar: getSidebar({
       contentRoot: 'docs',
       contentDirs: ['dying-earth', 'horror-noire'],
