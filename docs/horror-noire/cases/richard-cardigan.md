@@ -1,5 +1,5 @@
 # Richard Cardigan
 
-![cardigan](../../assets/richard-cardigan.excalidraw.png)
+![cardigan](../../assets/horror-noire/excalidraw/richard-cardigan.excalidraw.png 'Mindmap of the richard cardigan case')
 
-[Open in browser](../../assets/richard-cardigan.excalidraw.png)
+[Open in browser](../../assets/horror-noire/excalidraw/richard-cardigan.excalidraw.png)
