@@ -151,11 +151,3 @@ Kida visar också hennes armar, hon har också lite hål för slangar osv men in
 
 Allia tittar till barnen i masten. Rullar för vad de såg 3d6 -> 3. Han såg ALLTING, nån skjöt en pil mot melkodor, han blev arg, jerry gick mot horhuset/baren.
 
-
-
-
-## Edit directly in GH
-
-![data-service](https://user-images.githubusercontent.com/732505/224731164-4b49d5cd-a90e-43ea-b289-10afcde9576c.gif)
-
-
