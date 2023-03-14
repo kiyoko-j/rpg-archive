@@ -2,7 +2,7 @@
 
 ## Uzdal Ghoros
 
-### Brölaren
+### Bölarn
 
 ### Tamzin
 
