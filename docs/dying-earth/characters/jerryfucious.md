@@ -1,5 +1,6 @@
 # Jerryfucious av Galas
-![jerry](https://user-images.githubusercontent.com/260888/225111192-5266b0fb-c9da-457b-afae-732ad6b7fc48.png)
+
+<img src="https://user-images.githubusercontent.com/260888/225111192-5266b0fb-c9da-457b-afae-732ad6b7fc48.png" width="250">
 
 
 ## Character sheet
