@@ -6,11 +6,11 @@ Stealth: 0
 Acrobatic: 0
 Fight: 2
 Guard: 1
-Endure: 1
+Endure: 2
 Study: 2
 Survey: 0
 Tinker: 0
 Charm: 2
-Command: 2
+Command: 1
 Sorcery: 0
 ```
