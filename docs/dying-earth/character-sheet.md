@@ -1,6 +1,6 @@
-# Aeryn Storm
+# Character sheet
 
-## Character sheet
+## Stat template:
 
 | Stat      |              |
 | --------- | ------------ |

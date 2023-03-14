@@ -2,7 +2,22 @@
 
 ## Character sheet
 
-```
+| Stat      |              |
+| --------- | ------------ |
+| Agility:  | ⚪️⚪️⚪️⚪️ |
+| Stealth   | ⚪️⚪️⚪️⚪️ |
+| Acrobatic | ⚪️⚪️⚪️⚪️ |
+| Fight     | ⚪️⚪️⚪️⚪️ |
+| Guard     | ⚪️⚪️⚪️⚪️ |
+| Endure    | ⚫️⚪️⚪️⚪️ |
+| Study     | ⚫️⚫️⚪️⚪️ |
+| Survey    | ⚫️⚪️⚪️⚪️ |
+| Tinker    | ⚫️⚫️⚪️⚪️ |
+| Charm     | ⚫️⚪️⚪️⚪️ |
+| Command   | ⚫️⚪️⚪️⚪️ |
+| Sorcery   | ⚫️⚫️⚫️⚪️ |
+
+<!-- ```
 Agility: 0
 Stealth: 0
 Acrobatic: 0
@@ -15,4 +30,4 @@ Tinker: 2
 Charm: 1
 Command: 1
 Sorcery: 3
-```
+``` -->
